@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testClean.whendoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-24T02:08:16" hostname="NERV-PC" time="18.514">
+  <properties/>
+  <testcase name="verifyAddTask" classname="testClean.whendoTest" time="18.514"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 23, 2020 9:08:29 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
